@@ -1,7 +1,12 @@
-import harcer
+import harcer_python
+import harcer_mathem
+import harcer_patm
+import harcer_fizika
 #python
 def zangvac():
-
+    print("Զանգվածների հետ կապված հարցերն են՝ \n1.Ի՞նչ է զանգվածը \n2.Ի՞նչ է list \n3.Ի՞նչ է set \n4.Ի՞նչ է tuple \n5.Ի՞նչ է dict")
+    harc = input("Գրեք, թե ինչ հարց ունեք = ")
+    if "զանգված" in
 def pajman():
 
 def cikl():
