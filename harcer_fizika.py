@@ -20,27 +20,4 @@ def nyut3():
 
 def ashxatanq():
 
-#angl
-def ps():
 
-def pc():
-
-def pp():
-
-def ppc():
-
-def pas():
-
-def pac():
-
-def pap():
-
-def papc():
-
-def fs():
-
-def fc():
-
-def fp():
-
-def fpc():
