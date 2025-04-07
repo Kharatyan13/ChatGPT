@@ -34,7 +34,6 @@ def bolid():
 
 def grand_prix():
 
-def hayer_f1():
 
 #olymp
 def xorhrdanish1():
