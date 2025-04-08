@@ -7,16 +7,16 @@ def uefa():
 
 def goldenboot():
 
-def hayer_foot():
+def armenian_foot():
 
 #basketball
 def nba():
 
-def fiba_ashxarh():
+def fiba_wc():
 
 def euroligue():
 
-def hayer_basket():
+def armenian_basket():
 
 #valleyball
 def champions_ligue():
@@ -25,7 +25,7 @@ def goldenball():
 
 def valleywc():
 
-def hayer_valley():
+def armenians_valley():
 
 #f1
 def constructor():
@@ -36,11 +36,11 @@ def grand_prix():
 
 
 #olymp
-def xorhrdanish1():
+def olympic_symbol():
 
-def cagum():
+def origin():
 
-def hayer_olymp():
+def armenian_olymp():
 
-def sportadzev():
+def olympic_sports():
 

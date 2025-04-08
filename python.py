@@ -5,19 +5,19 @@ def set1():
 
 def tuple1():
 
-def dect1():
+def dict1():
 
-def zangvac1():
+def array1():
 
 #payman
-def payman1():
+def condition():
 
-def payman_operator():
+def coditional_operator():
 
 def if_elif_else():
 
 #cikl
-def cikl1():
+def cycle():
 
 def for1():
 
@@ -28,10 +28,10 @@ def foreach1():
 #math
 def math1():
 
-def math_funk():
+def math_func():
 
 #tox
-def tox1():
+def strg1():
 
-def metod_funk():
+def method_func():
 
