@@ -1,28 +1,36 @@
-# 1
-# def diplomacy1():
-#
-# def countries1():
-#
-# def union1():
-#
-# def creation1():
-#
-# 2
-# def diplomacy2():
-#
-# def countries2():
-#
-# def union2():
-#
-# def creation2():
-#
-# 3
-# def diplomacy3():
-#
-# def countries3():
-#
-# def union3():
-#
-# def creation3():
-#
+import time
+import main
+
+def slow_print(text):
+    for char in text:
+        print(char, end="", flush=True)
+        time.sleep(0.01)
+
+#1
+def diplomacy1():
+    slow_print("""""")
+def countries1():
+    slow_print("""""")
+def union1():
+    slow_print("""""")
+def creation1():
+    slow_print("""""")
+#2
+def diplomacy2():
+    slow_print("""""")
+def countries2():
+    slow_print("""""")
+def union2():
+    slow_print("""""")
+def creation2():
+    slow_print("""""")
+#3
+def diplomacy3():
+    slow_print("""""")
+def countries3():
+    slow_print("""""")
+def union3():
+    slow_print("""""")
+def creation3():
+    slow_print("""""")
 
