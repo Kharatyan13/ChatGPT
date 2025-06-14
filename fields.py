@@ -560,15 +560,13 @@ def lezvi_patm():
 
 #grak
 def tum():
-    slow_print("Հովհաննես Թումանյանի հետ կապված հարցերն են՝ \n1.Կյանքը \n2.Ստեղծագործությունները \n3.«Ամենայն Հայոց Բանաստեղծ» անվան ստացումը \n4.Նրա դերը գրականության մեջ \n5.Թարգմանչական գործը\n")
+    slow_print("Հովհաննես Թումանյանի հետ կապված հարցերն են՝ \n1.Կյանքը \n2.Ստեղծագործությունները \n3.Նրա դերը գրականության մեջ \n4.Թարգմանչական գործը\n")
     question = input("Գրեք, թե ինչ հարց ունեք՝ ")
     question = question.lower()
     if "կյան" in question:
         literature.tum_life()
     elif "ստեղծ" in question:
         literature.tum_creation()
-    elif "ամենայն" in question:
-        literature.amenayn_hayoc_ban()
     elif "դեր" in question:
         literature.tum_role()
     elif "թարգ" in question:
