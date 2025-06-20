@@ -5,6 +5,7 @@ def slow_print(text):
     for char in text:
         print(char, end="", flush=True)
         time.sleep(0.01)
+    main.main1()
 #jamanak
 def ankatar_nerka():
     slow_print("""
